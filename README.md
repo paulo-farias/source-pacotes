@@ -1,2 +1,2 @@
-# source-pacotes
+# source-package
 empacotamento de software
